@@ -17,6 +17,9 @@
 
 ### **Objetivos Especificos** 
 
+* Decidir el costo de voltaje y corriente en el resistor R5 implementando el Teorema de Thévenin. 
+
+* Mirar la efectividad y facilidad de uso del Teorema de Thévenin, aplicado en la investigación de un circuito mixto. 
 
 ## **5.2. Requisitos Previos**
 
@@ -71,5 +74,11 @@ b) Obtenga los valores del circuito equivalente de Thévenin y anótelos en la t
 
 ## **5.6 Conclusiones**
 
+* Para concluir el voltaje equivalente de Thévenin (V_TH) es el voltaje de circuito abierto (sin carga) presente entre 2 terminales de salida, mientras tanto que la resistencia equivalente de Thévenin (R_TH) es la resistencia total que surge entre 2 terminales . 
+* Se ha podido revisar experimentalmente y teóricamente que el teorema de Thévenin posibilita minimizar inclusive el circuito más difícil a una sola fuente de voltaje y una sola resistencia. 
+
 ## **Bibliografia**
+
+AreatecnologiaA. (10 de Noviembre de 2019). Areatecnologia. Obtenido de https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html
+
 
