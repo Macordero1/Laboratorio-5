@@ -13,11 +13,17 @@
 
 ### **Objetivo General**
 
-* 
+* Analizar mediante el teorema de Thévenin un circuito simulado, y encontrar las medidas de voltaje amperaje y resistencia
 
 ### **Objetivos Especificos** 
 
+
 ## **5.2. Requisitos Previos**
+
+Para el circuito mostrado en la figura 5.1:
+a) Determine el valor de voltaje y corriente en el resistor R5. Anote los resultados
+en la tabla 5.2.
+b) Obtenga los valores del circuito equivalente de Thévenin y anótelos en la tabla 5.1.
 
 ## **5.3. Información General**
 
@@ -39,11 +45,19 @@
 
 ## **5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.**
 
+![image](https://user-images.githubusercontent.com/105742149/177906184-54ea48df-ef33-4d21-ad1d-8b8470b1ace7.png)
+
 ## **5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
+
+![image](https://user-images.githubusercontent.com/105742149/177906482-3a45e6eb-5448-472f-ad7b-c7be287a5c25.png)
 
 ## **5.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.**
 
+![image](https://user-images.githubusercontent.com/105742149/177906510-b5a8d44f-01ae-4c05-a5e5-5ddbc930cd93.png)
+
 ## **5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
+
+![image](https://user-images.githubusercontent.com/105742149/177906561-92dc60e2-64bf-4548-bdfd-13a97ab69f90.png)
 
 ## **5.6 Conclusiones**
 
