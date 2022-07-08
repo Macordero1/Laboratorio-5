@@ -40,11 +40,11 @@ b) Obtenga los valores del circuito equivalente de Thévenin y anótelos en la t
 
 ## **5.5. Procedimiento**
 
-![CamScanner 07-07-2022 22 24_001](https://user-images.githubusercontent.com/105742149/177911547-821af876-269a-4f4b-be17-6ec8eff1ce6e.png)
+![image](https://user-images.githubusercontent.com/105742149/177912596-56cbe4b8-cabf-40c0-9ec5-69a69474e786.png)
 
-![CamScanner 07-07-2022 22 24_002](https://user-images.githubusercontent.com/105742149/177911555-6b189725-ebd4-483c-a77a-05a49606d90b.png)
+![image](https://user-images.githubusercontent.com/105742149/177912637-8406e5eb-288a-4670-b261-a9a3089c4402.png)
 
-![CamScanner 07-07-2022 22 24_003](https://user-images.githubusercontent.com/105742149/177911570-ae3d5358-4aff-4e11-9c0c-cee90b314db2.png)
+![image](https://user-images.githubusercontent.com/105742149/177912690-bf1c9f1c-3e59-48f2-b146-a67c5af518cd.png)
 
 ## **5.5.1. Arme el circuito que se muestra en la figura 5.1.**
 
