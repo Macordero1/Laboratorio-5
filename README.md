@@ -40,6 +40,12 @@ b) Obtenga los valores del circuito equivalente de Thévenin y anótelos en la t
 
 ## **5.5. Procedimiento**
 
+![CamScanner 07-07-2022 22 24_001](https://user-images.githubusercontent.com/105742149/177911547-821af876-269a-4f4b-be17-6ec8eff1ce6e.png)
+
+![CamScanner 07-07-2022 22 24_002](https://user-images.githubusercontent.com/105742149/177911555-6b189725-ebd4-483c-a77a-05a49606d90b.png)
+
+![CamScanner 07-07-2022 22 24_003](https://user-images.githubusercontent.com/105742149/177911570-ae3d5358-4aff-4e11-9c0c-cee90b314db2.png)
+
 ## **5.5.1. Arme el circuito que se muestra en la figura 5.1.**
 
 ![image](https://user-images.githubusercontent.com/105742149/177897259-50d884e5-b867-4ca8-9b5d-1d2782804134.png)
@@ -72,7 +78,17 @@ b) Obtenga los valores del circuito equivalente de Thévenin y anótelos en la t
 
 *Medición de la corriente y el voltaje implementando el circuito equivalente de Thévenin y agregando R5*
 
-## **5.6 Conclusiones**
+## **5.6 Resultados en tablas**
+
+![image](https://user-images.githubusercontent.com/105742149/177911727-9bf4b4be-c288-4079-bcf1-3a582ddb9806.png)
+
+*Tabla 5.1*
+
+![image](https://user-images.githubusercontent.com/105742149/177911793-864f68b2-8986-421e-91e7-4f824fbf6328.png)
+
+*Tabla 5.2*
+
+## **5.7 Conclusiones**
 
 * Para concluir el voltaje equivalente de Thévenin (V_TH) es el voltaje de circuito abierto (sin carga) presente entre 2 terminales de salida, mientras tanto que la resistencia equivalente de Thévenin (R_TH) es la resistencia total que surge entre 2 terminales . 
 * Se ha podido revisar experimentalmente y teóricamente que el teorema de Thévenin posibilita minimizar inclusive el circuito más difícil a una sola fuente de voltaje y una sola resistencia. 
