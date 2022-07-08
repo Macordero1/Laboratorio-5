@@ -13,6 +13,8 @@
 
 ### **Objetivo General**
 
+* 
+
 ### **Objetivos Especificos** 
 
 ## **5.2. Requisitos Previos**
@@ -23,13 +25,17 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/177897354-801dcfeb-0fea-47cf-be71-21f4a0224452.png)
 
+![image](https://user-images.githubusercontent.com/105742149/177900180-01d448ed-525d-42c8-b0fd-ffcc802ed2df.png)
+
 ## **5.5. Procedimiento**
 
 ## **5.5.1. Arme el circuito que se muestra en la figura 5.1.**
 
 ![image](https://user-images.githubusercontent.com/105742149/177897259-50d884e5-b867-4ca8-9b5d-1d2782804134.png)
 
-![image](https://user-images.githubusercontent.com/105742149/177897784-dd0ea425-83dc-4cc6-9d2a-94476db8f70a.png)
+![image](https://user-images.githubusercontent.com/105742149/177900037-3276b55a-2a92-46a6-ad79-370357edd173.png)
+
+ *Circuito Armado
 
 ## **5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.**
 
