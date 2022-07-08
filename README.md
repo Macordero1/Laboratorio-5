@@ -24,8 +24,9 @@
 ## **5.2. Requisitos Previos**
 
 Para el circuito mostrado en la figura 5.1:
-a) Determine el valor de voltaje y corriente en el resistor R5. Anote los resultados
-en la tabla 5.2.
+
+a) Determine el valor de voltaje y corriente en el resistor R5. Anote los resultadosen la tabla 5.2.
+
 b) Obtenga los valores del circuito equivalente de Thévenin y anótelos en la tabla 5.1.
 
 ## **5.3. Información General**
